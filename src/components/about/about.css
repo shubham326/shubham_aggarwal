@@ -8,11 +8,15 @@
   width: 100%;
   aspect-ratio: 1/1;
   border-radius: 2rem;
-  background: linear-gradient(60deg, transparent, var(--color-primary), transparent);
+  background: linear-gradient(
+    60deg,
+    transparent,
+    var(--color-primary),
+    transparent
+  );
   display: grid;
   place-items: center;
 }
-
 
 /* for just one hover tranistion
 .about_me-image {
@@ -25,7 +29,6 @@
   transform: rotate(0);
  }
 for just one hover tranistion */
-
 
 /*for infinte animation*/
 .about_me-image {
@@ -49,7 +52,6 @@ for just one hover tranistion */
   gap: 1.5rem;
 }
 
-
 .about_card {
   background: var(--color-bg-variant);
   border: 1px solid transparent;
@@ -64,7 +66,6 @@ for just one hover tranistion */
   border-color: var(--color-primary-varient);
   cursor: default;
 }
-
 
 .about_icon {
   color: var(--color-primary);
@@ -104,7 +105,6 @@ for just one hover tranistion */
   }
 }
 
-
 /*==== media querry  (small devives) ==== */
 
 @media screen and (max-width: 600px) {
@@ -112,7 +112,7 @@ for just one hover tranistion */
     width: 65%;
     margin: 0 auto 3rem;
   }
-   
+
   .about_cards {
     grid-template-columns: 1fr;
     gap: 1rem;
