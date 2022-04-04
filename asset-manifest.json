@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shubham_aggarwal/static/css/main.321953ff.css",
+    "main.js": "/shubham_aggarwal/static/js/main.719ca124.js",
+    "static/media/cv.pdf": "/shubham_aggarwal/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/me.png": "/shubham_aggarwal/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.jpg": "/shubham_aggarwal/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "index.html": "/shubham_aggarwal/index.html",
+    "main.321953ff.css.map": "/shubham_aggarwal/static/css/main.321953ff.css.map",
+    "main.719ca124.js.map": "/shubham_aggarwal/static/js/main.719ca124.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.321953ff.css",
+    "static/js/main.719ca124.js"
+  ]
+}
