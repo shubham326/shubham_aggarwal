@@ -18,6 +18,7 @@
   place-items: center;
 }
 
+
 /* for just one hover tranistion
 .about_me-image {
   border-radius: 2rem;
@@ -82,7 +83,7 @@ for just one hover tranistion */
   color: var(--color-light);
 }
 
-.about-conetent p {
+.about_content p {
   margin: 2rem 0 2.6rem;
   color: var(--color-light);
 }
@@ -100,7 +101,7 @@ for just one hover tranistion */
     margin: 2rem auto 4rem;
   }
 
-  .about-content p {
+  .about_content p {
     margin: 1rem 0 1.5rem;
   }
 }
@@ -117,10 +118,10 @@ for just one hover tranistion */
     grid-template-columns: 1fr;
     gap: 1rem;
   }
-  .about-content {
+  .about_content {
     text-align: center;
   }
-  .about-content p {
+  .about_content p {
     margin: 1.5rem 0;
   }
 }
