@@ -1,22 +1,34 @@
 {
   "files": {
-    "main.css": "/shubham_aggarwal/static/css/main.8c68de6c.css",
-    "main.js": "/shubham_aggarwal/static/js/main.ee966200.js",
-    "static/media/cv.pdf": "/shubham_aggarwal/static/media/cv.1676dcdc83730930d888.pdf",
-    "static/media/me.png": "/shubham_aggarwal/static/media/me.821ecddcb9953b46bf75.png",
-    "static/media/me-about.jpg": "/shubham_aggarwal/static/media/me-about.fb4452e7f286d3636ef9.jpg",
-    "static/media/portfolio5.png": "/shubham_aggarwal/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/shubham_aggarwal/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/shubham_aggarwal/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/shubham_aggarwal/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/shubham_aggarwal/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/shubham_aggarwal/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "main.css": "/shubham_aggarwal/static/css/main.d4497ab6.chunk.css",
+    "main.js": "/shubham_aggarwal/static/js/main.adb2499a.chunk.js",
+    "main.js.map": "/shubham_aggarwal/static/js/main.adb2499a.chunk.js.map",
+    "runtime-main.js": "/shubham_aggarwal/static/js/runtime-main.ad225b88.js",
+    "runtime-main.js.map": "/shubham_aggarwal/static/js/runtime-main.ad225b88.js.map",
+    "static/css/2.070ffd8c.chunk.css": "/shubham_aggarwal/static/css/2.070ffd8c.chunk.css",
+    "static/js/2.b78f8822.chunk.js": "/shubham_aggarwal/static/js/2.b78f8822.chunk.js",
+    "static/js/2.b78f8822.chunk.js.map": "/shubham_aggarwal/static/js/2.b78f8822.chunk.js.map",
+    "static/js/3.b88dd570.chunk.js": "/shubham_aggarwal/static/js/3.b88dd570.chunk.js",
+    "static/js/3.b88dd570.chunk.js.map": "/shubham_aggarwal/static/js/3.b88dd570.chunk.js.map",
     "index.html": "/shubham_aggarwal/index.html",
-    "main.8c68de6c.css.map": "/shubham_aggarwal/static/css/main.8c68de6c.css.map",
-    "main.ee966200.js.map": "/shubham_aggarwal/static/js/main.ee966200.js.map"
+    "static/css/2.070ffd8c.chunk.css.map": "/shubham_aggarwal/static/css/2.070ffd8c.chunk.css.map",
+    "static/css/main.d4497ab6.chunk.css.map": "/shubham_aggarwal/static/css/main.d4497ab6.chunk.css.map",
+    "static/js/2.b78f8822.chunk.js.LICENSE.txt": "/shubham_aggarwal/static/js/2.b78f8822.chunk.js.LICENSE.txt",
+    "static/media/cv.1676dcdc.pdf": "/shubham_aggarwal/static/media/cv.1676dcdc.pdf",
+    "static/media/me-about.fb4452e7.jpg": "/shubham_aggarwal/static/media/me-about.fb4452e7.jpg",
+    "static/media/me.821ecddc.png": "/shubham_aggarwal/static/media/me.821ecddc.png",
+    "static/media/portfolio1.f5e72352.jpg": "/shubham_aggarwal/static/media/portfolio1.f5e72352.jpg",
+    "static/media/portfolio2.ae187bc4.jpg": "/shubham_aggarwal/static/media/portfolio2.ae187bc4.jpg",
+    "static/media/portfolio3.cbab4255.jpg": "/shubham_aggarwal/static/media/portfolio3.cbab4255.jpg",
+    "static/media/portfolio4.6bf60cbb.jpg": "/shubham_aggarwal/static/media/portfolio4.6bf60cbb.jpg",
+    "static/media/portfolio5.a82ae9a1.png": "/shubham_aggarwal/static/media/portfolio5.a82ae9a1.png",
+    "static/media/portfolio6.72d1107e.jpg": "/shubham_aggarwal/static/media/portfolio6.72d1107e.jpg"
   },
   "entrypoints": [
-    "static/css/main.8c68de6c.css",
-    "static/js/main.ee966200.js"
+    "static/js/runtime-main.ad225b88.js",
+    "static/css/2.070ffd8c.chunk.css",
+    "static/js/2.b78f8822.chunk.js",
+    "static/css/main.d4497ab6.chunk.css",
+    "static/js/main.adb2499a.chunk.js"
   ]
 }
